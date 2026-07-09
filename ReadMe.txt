@@ -6,9 +6,11 @@ There are three methods documented for running the Python Program:
 Open the python program mass_contactors_in_series_countercurrent_calculator.py in the python editor of your choice. Press the editor's button to run the program. 
 
 2. Windows Powershell, Unix System Terminal 
+Type the following command into the terminal to start the program:
 python mass_contactors_in_series_countercurrent_calculator.py
 
 3. Windows Command Prompt 
+Type the following command into the terminal to start the program:
 py mass_contactors_in_series_countercurrent_calculator.py 
 
 
